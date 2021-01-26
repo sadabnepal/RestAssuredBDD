@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.testnepal.tests.GetRequestTest"/>
+      <class name="com.testnepal.tests.PostRequestTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
